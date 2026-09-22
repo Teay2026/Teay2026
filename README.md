@@ -21,4 +21,4 @@ I'm especially interested in the engineering behind modern AI: from machine lear
 * AI/ML Engineer
 * Previously worked on AI, data, and software systems at BMW Group and Orange
 * I enjoy building AI systems end-to-end : from experimentation and prototyping to deployment, monitoring, and production
-* Based in Paris, France 
+* Based in Paris, France 🇫🇷
